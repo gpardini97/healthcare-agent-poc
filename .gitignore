@@ -43,7 +43,6 @@ Thumbs.db
 *.pkl
 
 # Output files
-*.pdf
 *.png
 *.csv
 *.xlsx
