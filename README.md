@@ -16,7 +16,7 @@ healthcare-agent-poc/
 ├── data/
 │   ├── raw/           # 📁 Tabelas cruas baixadas do OpenData SUS (somente local, não versionadas)
 │   ├── interim/       # 📦 Arquivo .parquet pré-processado para cálculos (versionado e gerado via notebooks/eda_notebook.ipynb)
-│   └── processed/     # 📄 Pasta de saída com o relatório final em PDF
+│   └── processed/     # 📄 Pasta de saída com o relatório final em PDF (versionado em git, consta como final_report.pdf)
 │
 ├── images/             # 🖼️ Gráficos gerados salvos em .png
 │
@@ -47,6 +47,8 @@ healthcare-agent-poc/
 ├── .env                 # 🔑 Variáveis de ambiente
 │
 ├── .gitignore
+│
+├── diag_conceitual.pdf  # Diagrama conceitual do projeto em .pdf 
 │
 └── README.md            # 📖 Documentação do projeto
 ```
