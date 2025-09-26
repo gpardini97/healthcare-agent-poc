@@ -113,4 +113,4 @@ python -m venv venv_srag
 
 ## Funcionamento do sistema:
 
-- O sistema funciona apenas a partir da confirmação do usuário via prompt em linguagem natural, dado o fornecimento de informações relvantes como a data da base, períodos considerados para os cálculos das taxas, entre outros. A partir da confirmação, todo o fluxo é acionado e o .pdf é gerado. 
+- O sistema funciona apenas a partir da confirmação do usuário via prompt em linguagem natural, dado o fornecimento de informações relvantes como a data da base, períodos considerados para os cálculos das taxas, entre outros. A partir da confirmação, todo o fluxo é acionado e o .pdf é gerado. O fluxo de operações e cálculos está detalhado no arquivo diag_conceitual.pdf. 
