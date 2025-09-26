@@ -127,7 +127,6 @@ if __name__ == "__main__":
 
         print("Executando a chain final para criação do texto. . .")
         final_text_report = generate_final_report(final_prompt, llm)
-        print(final_text_report)
 
         print("Gerando e salvando o .pdf. . .")
         build_pdf_report(
